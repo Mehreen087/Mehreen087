@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning Artificial Intelligence Technologies.
+- 👯 I’m looking to collaborate on Computer Vision begginer projects.
+- 💬 Ask me about Artificial Intelligence, Computer Vision, Machine Learning, Deep Learning.
 <!--
 **Mehreen087/Mehreen087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
